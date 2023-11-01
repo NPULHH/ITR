@@ -1,1 +1,2 @@
-code 
+PyTorch code for VSRN described in the paper "Visual Semantic Reasoning for Image-Text Matching". The paper will appear in ICCV 2019 as oral presentation. 
+It is built on top of the VSE++.
